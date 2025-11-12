@@ -1,6 +1,8 @@
 # Customer-Exit-Prediction
-Predict whether a customer will exit (CustomerExit) based on various service and demographic features. 
+Predicting employee salaries (AnnualSalary) based on various professional experience, education, and performance features.
 
-The usage of data exploration, preprocessing, and train machine learning models to predict customer exit. 
 
-Evaluate the models using classification metrics.
+Utilizing data exploration, preprocessing, and train machine learning models to predict employee compensation.
+
+
+Evaluating the models using regression metrics.
